@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+#img1 {
+    width: 500px;
+}
+
+#img2 {
+    width: 500px;
+}
+
+#img3 {
+    width: 500px;
+}
+
+#img4 {
+    width: 500px;
+}
